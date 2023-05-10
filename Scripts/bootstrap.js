@@ -7,6 +7,10 @@
 if (typeof jQuery === 'undefined') {
   throw new Error('Bootstrap\'s JavaScript requires jQuery')
 }
+else
+  {
+    print("ali jooon")
+  }
 
 +function ($) {
   'use strict';
